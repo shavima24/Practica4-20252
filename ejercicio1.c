@@ -1,12 +1,13 @@
 //Shari soto
 //Ejercicio 1
 #include <stdio.h>
-#include <stdlio.h>
+#include <stdlib.h>
+
 int main ()
 {
-  int a=3;
-  int b=2
-  if (a>b)
+  int a = 3;
+  int b = 2;
+  if (a > b)
   {
     printf("a es mayor \n");
   }
