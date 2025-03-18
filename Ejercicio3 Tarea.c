@@ -1,3 +1,6 @@
+//Shari soto
+//Ejercicio Tarea
+
 #include <stdio.h>
 #include <stdlib.h>
 
